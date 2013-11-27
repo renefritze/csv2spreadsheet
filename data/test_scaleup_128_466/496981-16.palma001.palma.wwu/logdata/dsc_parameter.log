@@ -1,0 +1,68 @@
+adaptive = 0
+localproblemsolver_verbose = 0
+preconditioner_type = sor
+[fem]
+algebraic_solver = bcgs
+grid_level = 16
+precond = asm
+[global]
+cgsolver_verbose = 0
+datadir = data/test_scaleup_128_466/496981-16.palma001.palma.wwu
+local_solution_vtk_output = 1
+output_walltime = 0
+[hmm]
+adaptivity = 0
+cell_grid_level = 6
+coarse_grid_level = 4
+delta = 0.1
+epsilon_guess = 0.05
+error_estimation = 0
+error_tolerance = 0.1
+petrov_galerkin = 1
+write_to_file = 1
+[logging]
+dir = logdata
+file = ms.log
+level = 54
+subgrid_silent = 1
+[msfem]
+adaptivity = 0
+coarse_grid_level = 0
+error_estimation = 0
+error_tolerance = 1e-6
+fem_comparison = 1
+fine_grid_level = 4
+localsolver = direct.superlu
+oversampling_layers = 0
+oversampling_strategy = 1
+petrov_galerkin = 1
+uniform = 1
+useNewOversampling = 0
+vtkOutput = 0
+[msfem.solver]
+iterations = 2000
+preconditioner_type = sor
+verbose = 0
+[problem]
+epsilon = 0.05
+linear = 1
+name = Nine
+reference_solution = 0
+rs_file = ../../../../dune/multiscale/problems/elliptic_problems/three/fem_eps_0.05_refLevel_16
+rs_grid_level = 16
+stochastic_pertubation = 0
+stochastic_variance = 0.01
+[rigorous_msfem]
+coarse_grid_level = 6
+fem_comparison = 1
+fine_grid_level = 16
+localsolver = bicgstab.ilut
+macro_solver_iterations = 10000
+macro_solver_tolerance = 1e-10
+msfem_basis_vtk_output = 1
+oversampling_layers = 30
+oversampling_strategy = Clement
+petrov_galerkin = 0
+uzawa_solver = 0
+[threading]
+max_count = 1

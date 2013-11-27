@@ -1,0 +1,27 @@
+Starting creation of subgrids.
+
+Rank 40 will solve local problems for 64 coarse entities!
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.03s.
+Maximum time for solving a localproblem = 0.04s.
+Average time for solving a localproblem = 0.0339062s.
+Total time for computing and saving the localproblems on rank 40: 2.17s.
+
+Assembling MsFEM Matrix.
+Time to assemble MsFEM stiffness matrix: 480ms
+Time to assemble and communicate MsFEM rhs: 1010ms
+Time to solve coarse MsFEM problem: 90ms.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Time to assemble standard FEM stiffness matrix: 420s
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 330s.
+
+
+
