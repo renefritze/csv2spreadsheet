@@ -1,0 +1,2 @@
+run,fem.assembleMatrix,fem.assembleRHS,fem.solve,msfem.Elliptic_MsFEM_Solver.solve_dirichlet_zero,msfem.all,msfem.assembleMatrix,msfem.assembleRHS,msfem.identifyCoarseAndFine,msfem.localproblemsolver.assemble_all,msfem.solveCoarse,msfem.subgrid_list,msfem.subgrid_list.create,msfem.subgrid_list.create.finalize,msfem.subgrid_list.identify,none.local_problem_solution
+0,1600,750,1100,28670,33820,2280,4260,2250,15690,140,1550,80,1390,60,0

@@ -1,0 +1,47 @@
+Data will be saved under: data/test_scaleup_4096_4_0/497129-16.palma001.palma.wwu
+Logs will be saved under: data/test_scaleup_4096_4_0/497129-16.palma001.palma.wwu/logdata/ms.log.log
+Error File for Elliptic Model Problem Dune::Multiscale::Problem::IModelProblemData with epsilon = 0.05.
+
+Use MsFEM in Petrov-Galerkin formulation with an uniform computation, i.e.:
+Uniformly refined coarse and fine mesh and
+the same number of layers for each (oversampled) local grid computation.
+
+Computations were made for:
+
+Refinement Level for (uniform) Fine Grid = 4
+Refinement Level for (uniform) Coarse Grid = 0
+Oversampling Strategy = 1
+Number of layers for oversampling = 0
+
+Comparison with standard FEM computation on the MsFEM Fine Grid, i.e. on Refinement Level 4
+
+
+loading dgf: ../dune/multiscale/grids/macro_grids/elliptic/msfem_cube_three.dgf
+Starting creation of subgrids.
+
+Rank 0 will solve local problems for 256 coarse entities!
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 256 coarse grid entities.
+512 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.05s.
+Maximum time for solving a localproblem = 0.08s.
+Average time for solving a localproblem = 0.0609766s.
+Total time for computing and saving the localproblems on rank 0: 15.61s.
+
+Assembling MsFEM Matrix.
+Time to assemble MsFEM stiffness matrix: 2400ms
+Time to assemble and communicate MsFEM rhs: 4250ms
+Time to solve coarse MsFEM problem: 140ms.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Time to assemble standard FEM stiffness matrix: 1600s
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 1110s.
+
+
+Maximum total runtime of the program over all processes: 33890ms
+

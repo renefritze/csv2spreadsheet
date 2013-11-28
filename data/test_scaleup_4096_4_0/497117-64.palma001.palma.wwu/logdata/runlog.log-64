@@ -1,0 +1,1690 @@
+Wed Nov 27 18:40:04 2013 Info  Job ( 497117-64.palma001.palma.wwu ) of Project ( o0num ) - started for free
+/var/spool/torque/mom_priv/jobs/497117-64.palma001.palma.wwu.SC: line 15: ulimit: POSIX message queues: cannot modify limit: Operation not permitted
+Data will be saved under: data/test_scaleup_4096_4_0/497117-64.palma001.palma.wwu
+Logs will be saved under: data/test_scaleup_4096_4_0/497117-64.palma001.palma.wwu/logdata/ms.log.log
+Error File for Elliptic Model Problem Dune::Multiscale::Problem::IModelProblemData with epsilon = 0.05.
+
+Use MsFEM in Petrov-Galerkin formulation with an uniform computation, i.e.:
+Uniformly refined coarse and fine mesh and
+the same number of layers for each (oversampled) local grid computation.
+
+Computations were made for:
+
+Refinement Level for (uniform) Fine Grid = 4
+Refinement Level for (uniform) Coarse Grid = 0
+Oversampling Strategy = 1
+Number of layers for oversampling = 0
+
+Comparison with standard FEM computation on the MsFEM Fine Grid, i.e. on Refinement Level 4
+
+
+loading dgf: ../dune/multiscale/grids/macro_grids/elliptic/msfem_cube_three.dgf
+Starting creation of subgrids.
+Starting creation of subgrids.
+Starting creation of subgrids.
+Starting creation of subgrids.
+
+Starting creation of subgrids.
+Starting creation of subgrids.
+Starting creation of subgrids.
+Starting creation of subgrids.
+
+
+
+Starting creation of subgrids.
+Starting creation of subgrids.
+Starting creation of subgrids.
+
+
+
+Starting creation of subgrids.
+
+Starting creation of subgrids.
+Starting creation of subgrids.
+Starting creation of subgrids.
+Starting creation of subgrids.
+Starting creation of subgrids.
+
+Starting creation of subgrids.
+
+Starting creation of subgrids.
+
+Starting creation of subgrids.
+
+
+
+
+
+Starting creation of subgrids.
+
+
+Starting creation of subgrids.
+Starting creation of subgrids.
+
+Starting creation of subgrids.
+
+
+
+Starting creation of subgrids.
+Starting creation of subgrids.
+Starting creation of subgrids.
+
+Starting creation of subgrids.
+
+
+Starting creation of subgrids.
+Starting creation of subgrids.
+Starting creation of subgrids.
+Starting creation of subgrids.
+
+Starting creation of subgrids.
+Starting creation of subgrids.
+
+Starting creation of subgrids.
+
+
+
+Starting creation of subgrids.
+Starting creation of subgrids.
+
+Starting creation of subgrids.
+Starting creation of subgrids.
+Starting creation of subgrids.
+Starting creation of subgrids.
+
+Starting creation of subgrids.
+
+Starting creation of subgrids.
+Starting creation of subgrids.
+
+Starting creation of subgrids.
+Starting creation of subgrids.
+Starting creation of subgrids.
+
+Starting creation of subgrids.
+Starting creation of subgrids.
+
+
+Starting creation of subgrids.
+Starting creation of subgrids.
+
+Starting creation of subgrids.
+
+Starting creation of subgrids.
+Starting creation of subgrids.
+
+Starting creation of subgrids.
+
+Starting creation of subgrids.
+Starting creation of subgrids.
+Starting creation of subgrids.
+
+
+Starting creation of subgrids.
+
+
+
+
+Starting creation of subgrids.
+Starting creation of subgrids.
+
+Starting creation of subgrids.
+
+
+
+Starting creation of subgrids.
+Starting creation of subgrids.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rank 41 will solve local problems for 64 coarse entities!
+Rank 42 will solve local problems for 64 coarse entities!
+Rank 46 will solve local problems for 64 coarse entities!
+Rank 44 will solve local problems for 64 coarse entities!
+Rank 60 will solve local problems for 64 coarse entities!
+Rank 61 will solve local problems for 64 coarse entities!
+Rank 40 will solve local problems for 64 coarse entities!
+Rank 63 will solve local problems for 64 coarse entities!
+Rank 62 will solve local problems for 64 coarse entities!
+Rank 0 will solve local problems for 64 coarse entities!
+Rank 9 will solve local problems for 64 coarse entities!
+Rank 2 will solve local problems for 64 coarse entities!
+Rank 15 will solve local problems for 64 coarse entities!
+Rank 39 will solve local problems for 64 coarse entities!
+Rank 18 will solve local problems for 64 coarse entities!
+Rank 12 will solve local problems for 64 coarse entities!
+Rank 47 will solve local problems for 64 coarse entities!
+Rank 11 will solve local problems for 64 coarse entities!
+Rank 19 will solve local problems for 64 coarse entities!
+Rank 7 will solve local problems for 64 coarse entities!
+Rank 10 will solve local problems for 64 coarse entities!
+Rank 29 will solve local problems for 64 coarse entities!
+Rank 30 will solve local problems for 64 coarse entities!
+Rank 32 will solve local problems for 64 coarse entities!
+Rank 34 will solve local problems for 64 coarse entities!
+Rank 35 will solve local problems for 64 coarse entities!
+Rank 28 will solve local problems for 64 coarse entities!
+Rank 33 will solve local problems for 64 coarse entities!
+Rank 31 will solve local problems for 64 coarse entities!
+Rank 24 will solve local problems for 64 coarse entities!
+Rank 27 will solve local problems for 64 coarse entities!
+Rank 26 will solve local problems for 64 coarse entities!
+Rank 25 will solve local problems for 64 coarse entities!
+Rank 37 will solve local problems for 64 coarse entities!
+Rank 16 will solve local problems for 64 coarse entities!
+Rank 21 will solve local problems for 64 coarse entities!
+Rank 23 will solve local problems for 64 coarse entities!
+Rank 17 will solve local problems for 64 coarse entities!
+Rank 22 will solve local problems for 64 coarse entities!
+Rank 6 will solve local problems for 64 coarse entities!
+Rank 38 will solve local problems for 64 coarse entities!
+Rank 43 will solve local problems for 64 coarse entities!
+Rank 1 will solve local problems for 64 coarse entities!
+Rank 5 will solve local problems for 64 coarse entities!
+Rank 36 will solve local problems for 64 coarse entities!
+Rank 50 will solve local problems for 64 coarse entities!
+Rank 13 will solve local problems for 64 coarse entities!
+Rank 52 will solve local problems for 64 coarse entities!
+Rank 14 will solve local problems for 64 coarse entities!
+Rank 57 will solve local problems for 64 coarse entities!
+Rank 55 will solve local problems for 64 coarse entities!
+Rank 58 will solve local problems for 64 coarse entities!
+Rank 59 will solve local problems for 64 coarse entities!
+Rank 4 will solve local problems for 64 coarse entities!
+Rank 20 will solve local problems for 64 coarse entities!
+Rank 48 will solve local problems for 64 coarse entities!
+Rank 51 will solve local problems for 64 coarse entities!
+Rank 49 will solve local problems for 64 coarse entities!
+Rank 53 will solve local problems for 64 coarse entities!
+Rank 3 will solve local problems for 64 coarse entities!
+Rank 8 will solve local problems for 64 coarse entities!
+Rank 56 will solve local problems for 64 coarse entities!
+Rank 54 will solve local problems for 64 coarse entities!
+Rank 45 will solve local problems for 64 coarse entities!
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.0282812s.
+Total time for computing and saving the localproblems on rank 63: 1.81s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.0282812s.
+Total time for computing and saving the localproblems on rank 61: 1.81s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.0284375s.
+Total time for computing and saving the localproblems on rank 62: 1.82s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.04s.
+Average time for solving a localproblem = 0.0285937s.
+Total time for computing and saving the localproblems on rank 47: 1.83s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.04s.
+Average time for solving a localproblem = 0.02875s.
+Total time for computing and saving the localproblems on rank 60: 1.84s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.0285937s.
+Total time for computing and saving the localproblems on rank 12: 1.83s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.0285937s.
+Total time for computing and saving the localproblems on rank 46: 1.83s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.0285937s.
+Total time for computing and saving the localproblems on rank 16: 1.83s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.04s.
+Average time for solving a localproblem = 0.02875s.
+Total time for computing and saving the localproblems on rank 18: 1.84s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.04s.
+Average time for solving a localproblem = 0.02875s.
+Total time for computing and saving the localproblems on rank 15: 1.84s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.0285937s.
+Total time for computing and saving the localproblems on rank 36: 1.83s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.0285937s.
+Total time for computing and saving the localproblems on rank 22: 1.83s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+
+Average time for solving a localproblem = 0.0285937s.
+In method: assembleAndSolveAll.
+Total time for computing and saving the localproblems on rank 37: 1.83s.
+
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Assembling MsFEM Matrix.
+Minimum time for solving a local problem = 0.02s.
+
+Maximum time for solving a localproblem = 0.04s.
+In method: assembleAndSolveAll.
+Average time for solving a localproblem = 0.0289062s.
+
+MsFEM problems solved for 64 coarse grid entities.
+Total time for computing and saving the localproblems on rank 17: 1.85s.
+
+128 local MsFEM problems solved in total.
+Assembling MsFEM Matrix.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.04s.
+Average time for solving a localproblem = 0.02875s.
+Total time for computing and saving the localproblems on rank 42: 1.84s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.0285937s.
+Total time for computing and saving the localproblems on rank 13: 1.83s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.0285937s.
+Total time for computing and saving the localproblems on rank 29: 1.83s.
+
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.0285937s.
+Total time for computing and saving the localproblems on rank 26: 1.83s.
+
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.0289062s.
+Total time for computing and saving the localproblems on rank 19: 1.85s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.0285937s.
+Total time for computing and saving the localproblems on rank 24: 1.83s.
+
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.0285937s.
+Total time for computing and saving the localproblems on rank 44: 1.83s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.04s.
+Average time for solving a localproblem = 0.0289062s.
+Total time for computing and saving the localproblems on rank 32: 1.85s.
+
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.0289062s.
+Total time for computing and saving the localproblems on rank 0: 1.85s.
+
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.02875s.
+Total time for computing and saving the localproblems on rank 41: 1.85s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.04s.
+Average time for solving a localproblem = 0.0289062s.
+Total time for computing and saving the localproblems on rank 23: 1.85s.
+
+Assembling MsFEM Matrix.
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+Assembling MsFEM Matrix.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Assembling MsFEM Matrix.
+Maximum time for solving a localproblem = 0.03s.
+Assembling MsFEM Matrix.
+Average time for solving a localproblem = 0.02875s.
+Assembling MsFEM Matrix.
+Total time for computing and saving the localproblems on rank 55: 1.84s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.0289062s.
+Total time for computing and saving the localproblems on rank 34: 1.85s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.02875s.
+Total time for computing and saving the localproblems on rank 31: 1.84s.
+
+Assembling MsFEM Matrix.
+
+
+In method: assembleAndSolveAll.
+In method: assembleAndSolveAll.
+
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+MsFEM problems solved for 64 coarse grid entities.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.0285937s.
+Total time for computing and saving the localproblems on rank 30: 1.83s.
+
+128 local MsFEM problems solved in total.
+
+Assembling MsFEM Matrix.
+Minimum time for solving a local problem = 0.02s.
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+Maximum time for solving a localproblem = 0.04s.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.0285937s.
+Average time for solving a localproblem = 0.0290625s.
+Total time for computing and saving the localproblems on rank 48: 1.83s.
+
+Total time for computing and saving the localproblems on rank 38: 1.86s.
+
+Assembling MsFEM Matrix.
+
+Assembling MsFEM Matrix.
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.02875s.
+Total time for computing and saving the localproblems on rank 6: 1.85s.
+
+Assembling MsFEM Matrix.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.04s.
+
+
+Average time for solving a localproblem = 0.0289062s.
+
+In method: assembleAndSolveAll.
+In method: assembleAndSolveAll.
+Total time for computing and saving the localproblems on rank 58: 1.85s.
+
+In method: assembleAndSolveAll.
+
+
+MsFEM problems solved for 64 coarse grid entities.
+
+Assembling MsFEM Matrix.
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Minimum time for solving a local problem = 0.02s.
+In method: assembleAndSolveAll.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.02875s.
+
+MsFEM problems solved for 64 coarse grid entities.
+Maximum time for solving a localproblem = 0.04s.
+Average time for solving a localproblem = 0.0289062s.
+Maximum time for solving a localproblem = 0.04s.
+Average time for solving a localproblem = 0.02875s.
+Total time for computing and saving the localproblems on rank 28: 1.84s.
+128 local MsFEM problems solved in total.
+Total time for computing and saving the localproblems on rank 14: 1.85s.
+
+Total time for computing and saving the localproblems on rank 43: 1.84s.
+
+Minimum time for solving a local problem = 0.02s.
+
+Assembling MsFEM Matrix.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.02875s.
+Assembling MsFEM Matrix.
+Assembling MsFEM Matrix.
+
+Total time for computing and saving the localproblems on rank 51: 1.84s.
+
+Assembling MsFEM Matrix.
+In method: assembleAndSolveAll.
+
+
+In method: assembleAndSolveAll.
+MsFEM problems solved for 64 coarse grid entities.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.0289062s.
+Average time for solving a localproblem = 0.0289062s.
+Total time for computing and saving the localproblems on rank 50: 1.85s.
+Total time for computing and saving the localproblems on rank 27: 1.85s.
+
+
+Assembling MsFEM Matrix.
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.02875s.
+Total time for computing and saving the localproblems on rank 25: 1.84s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.0285937s.
+
+Total time for computing and saving the localproblems on rank 4: 1.83s.
+
+In method: assembleAndSolveAll.
+
+Assembling MsFEM Matrix.
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.04s.
+Average time for solving a localproblem = 0.0290625s.
+Total time for computing and saving the localproblems on rank 39: 1.86s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.04s.
+Average time for solving a localproblem = 0.02875s.
+Total time for computing and saving the localproblems on rank 54: 1.84s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+
+In method: assembleAndSolveAll.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.04s.
+Average time for solving a localproblem = 0.0289062s.
+Total time for computing and saving the localproblems on rank 35: 1.85s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.0289062s.
+Total time for computing and saving the localproblems on rank 1: 1.85s.
+
+
+Assembling MsFEM Matrix.
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.0289062s.
+Total time for computing and saving the localproblems on rank 5: 1.85s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.04s.
+Average time for solving a localproblem = 0.0289062s.
+Total time for computing and saving the localproblems on rank 3: 1.85s.
+
+Assembling MsFEM Matrix.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.04s.
+Average time for solving a localproblem = 0.02875s.
+Total time for computing and saving the localproblems on rank 53: 1.84s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.04s.
+Average time for solving a localproblem = 0.0290625s.
+Total time for computing and saving the localproblems on rank 52: 1.86s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.0289062s.
+Total time for computing and saving the localproblems on rank 40: 1.85s.
+
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.04s.
+Average time for solving a localproblem = 0.0289062s.
+Total time for computing and saving the localproblems on rank 9: 1.85s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.04s.
+In method: assembleAndSolveAll.
+
+Average time for solving a localproblem = 0.0290625s.
+Total time for computing and saving the localproblems on rank 33: 1.86s.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.04s.
+Assembling MsFEM Matrix.
+Average time for solving a localproblem = 0.0290625s.
+Total time for computing and saving the localproblems on rank 49: 1.86s.
+
+Assembling MsFEM Matrix.
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.04s.
+Average time for solving a localproblem = 0.0292187s.
+Total time for computing and saving the localproblems on rank 21: 1.87s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.0289062s.
+Total time for computing and saving the localproblems on rank 59: 1.85s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.0290625s.
+Total time for computing and saving the localproblems on rank 7: 1.86s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.0290625s.
+Total time for computing and saving the localproblems on rank 10: 1.86s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.04s.
+Average time for solving a localproblem = 0.0292187s.
+Total time for computing and saving the localproblems on rank 11: 1.87s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.04s.
+Average time for solving a localproblem = 0.0289062s.
+Total time for computing and saving the localproblems on rank 20: 1.85s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.0290625s.
+Total time for computing and saving the localproblems on rank 2: 1.86s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.04s.
+Average time for solving a localproblem = 0.0292187s.
+Total time for computing and saving the localproblems on rank 57: 1.87s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.03s.
+Average time for solving a localproblem = 0.0289062s.
+Total time for computing and saving the localproblems on rank 56: 1.85s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.04s.
+Average time for solving a localproblem = 0.0295312s.
+Total time for computing and saving the localproblems on rank 8: 1.89s.
+
+Assembling MsFEM Matrix.
+
+In method: assembleAndSolveAll.
+
+MsFEM problems solved for 64 coarse grid entities.
+128 local MsFEM problems solved in total.
+Minimum time for solving a local problem = 0.02s.
+Maximum time for solving a localproblem = 0.04s.
+Average time for solving a localproblem = 0.03125s.
+Total time for computing and saving the localproblems on rank 45: 2s.
+
+Assembling MsFEM Matrix.
+Time to assemble MsFEM stiffness matrix: 540ms
+Time to assemble MsFEM stiffness matrix: 590ms
+Time to assemble MsFEM stiffness matrix: 550ms
+Time to assemble MsFEM stiffness matrix: 540ms
+Time to assemble MsFEM stiffness matrix: 560ms
+Time to assemble MsFEM stiffness matrix: 580ms
+Time to assemble MsFEM stiffness matrix: 550ms
+Time to assemble MsFEM stiffness matrix: 550ms
+Time to assemble MsFEM stiffness matrix: 590ms
+Time to assemble MsFEM stiffness matrix: 590ms
+Time to assemble MsFEM stiffness matrix: 570ms
+Time to assemble MsFEM stiffness matrix: 540ms
+Time to assemble MsFEM stiffness matrix: 580ms
+Time to assemble MsFEM stiffness matrix: 560ms
+Time to assemble MsFEM stiffness matrix: 600ms
+Time to assemble MsFEM stiffness matrix: 560ms
+Time to assemble MsFEM stiffness matrix: 520ms
+Time to assemble MsFEM stiffness matrix: 560ms
+Time to assemble MsFEM stiffness matrix: 580ms
+Time to assemble MsFEM stiffness matrix: 570ms
+Time to assemble MsFEM stiffness matrix: 570ms
+Time to assemble MsFEM stiffness matrix: 550ms
+Time to assemble MsFEM stiffness matrix: 570ms
+Time to assemble MsFEM stiffness matrix: 540ms
+Time to assemble MsFEM stiffness matrix: 580ms
+Time to assemble MsFEM stiffness matrix: 560ms
+Time to assemble MsFEM stiffness matrix: 510ms
+Time to assemble MsFEM stiffness matrix: 560ms
+Time to assemble MsFEM stiffness matrix: 550ms
+Time to assemble MsFEM stiffness matrix: 590ms
+Time to assemble MsFEM stiffness matrix: 550ms
+Time to assemble MsFEM stiffness matrix: 560ms
+Time to assemble MsFEM stiffness matrix: 550ms
+Time to assemble MsFEM stiffness matrix: 560ms
+Time to assemble MsFEM stiffness matrix: 560ms
+Time to assemble MsFEM stiffness matrix: 550ms
+Time to assemble MsFEM stiffness matrix: 570ms
+Time to assemble MsFEM stiffness matrix: 550ms
+Time to assemble MsFEM stiffness matrix: 580ms
+Time to assemble MsFEM stiffness matrix: 610ms
+Time to assemble MsFEM stiffness matrix: 570ms
+Time to assemble MsFEM stiffness matrix: 530ms
+Time to assemble MsFEM stiffness matrix: 570ms
+Time to assemble MsFEM stiffness matrix: 580ms
+Time to assemble MsFEM stiffness matrix: 620ms
+Time to assemble MsFEM stiffness matrix: 540ms
+Time to assemble MsFEM stiffness matrix: 560ms
+Time to assemble MsFEM stiffness matrix: 570ms
+Time to assemble MsFEM stiffness matrix: 570ms
+Time to assemble MsFEM stiffness matrix: 550ms
+Time to assemble MsFEM stiffness matrix: 580ms
+Time to assemble MsFEM stiffness matrix: 590ms
+Time to assemble MsFEM stiffness matrix: 340ms
+Time to assemble MsFEM stiffness matrix: 550ms
+Time to assemble MsFEM stiffness matrix: 560ms
+Time to assemble MsFEM stiffness matrix: 550ms
+Time to assemble MsFEM stiffness matrix: 600ms
+Time to assemble MsFEM stiffness matrix: 560ms
+Time to assemble MsFEM stiffness matrix: 580ms
+Time to assemble MsFEM stiffness matrix: 570ms
+Time to assemble MsFEM stiffness matrix: 560ms
+Time to assemble MsFEM stiffness matrix: 570ms
+Time to assemble MsFEM stiffness matrix: 570ms
+Time to assemble MsFEM stiffness matrix: 580ms
+Time to assemble and communicate MsFEM rhs: 920ms
+Time to assemble and communicate MsFEM rhs: 930ms
+Time to assemble and communicate MsFEM rhs: 930ms
+Time to assemble and communicate MsFEM rhs: 950ms
+Time to assemble and communicate MsFEM rhs: 950ms
+Time to assemble and communicate MsFEM rhs: 950ms
+Time to assemble and communicate MsFEM rhs: 950ms
+Time to assemble and communicate MsFEM rhs: 950ms
+Time to assemble and communicate MsFEM rhs: 950ms
+Time to assemble and communicate MsFEM rhs: 960ms
+Time to assemble and communicate MsFEM rhs: 950ms
+Time to assemble and communicate MsFEM rhs: 960ms
+Time to assemble and communicate MsFEM rhs: 960ms
+Time to assemble and communicate MsFEM rhs: 960ms
+Time to assemble and communicate MsFEM rhs: 960ms
+Time to assemble and communicate MsFEM rhs: 950ms
+Time to assemble and communicate MsFEM rhs: 960ms
+Time to assemble and communicate MsFEM rhs: 970ms
+Time to assemble and communicate MsFEM rhs: 970ms
+Time to assemble and communicate MsFEM rhs: 960ms
+Time to assemble and communicate MsFEM rhs: 980ms
+Time to assemble and communicate MsFEM rhs: 980ms
+Time to assemble and communicate MsFEM rhs: 970ms
+Time to assemble and communicate MsFEM rhs: 970ms
+Time to assemble and communicate MsFEM rhs: 980ms
+Time to assemble and communicate MsFEM rhs: 980ms
+Time to assemble and communicate MsFEM rhs: 970ms
+Time to assemble and communicate MsFEM rhs: 960ms
+Time to assemble and communicate MsFEM rhs: 950ms
+Time to assemble and communicate MsFEM rhs: 970ms
+Time to assemble and communicate MsFEM rhs: 970ms
+Time to assemble and communicate MsFEM rhs: 980ms
+Time to assemble and communicate MsFEM rhs: 980ms
+Time to assemble and communicate MsFEM rhs: 990ms
+Time to assemble and communicate MsFEM rhs: 970ms
+Time to assemble and communicate MsFEM rhs: 970ms
+Time to assemble and communicate MsFEM rhs: 990ms
+Time to assemble and communicate MsFEM rhs: 1000ms
+Time to assemble and communicate MsFEM rhs: 980ms
+Time to assemble and communicate MsFEM rhs: 990ms
+Time to assemble and communicate MsFEM rhs: 990ms
+Time to assemble and communicate MsFEM rhs: 990ms
+Time to assemble and communicate MsFEM rhs: 990ms
+Time to assemble and communicate MsFEM rhs: 970ms
+Time to assemble and communicate MsFEM rhs: 1000ms
+Time to assemble and communicate MsFEM rhs: 1000ms
+Time to assemble and communicate MsFEM rhs: 1000ms
+Time to assemble and communicate MsFEM rhs: 1000ms
+Time to assemble and communicate MsFEM rhs: 1000ms
+Time to assemble and communicate MsFEM rhs: 1000ms
+Time to assemble and communicate MsFEM rhs: 1000ms
+Time to assemble and communicate MsFEM rhs: 990ms
+Time to assemble and communicate MsFEM rhs: 980ms
+Time to assemble and communicate MsFEM rhs: 1000ms
+Time to assemble and communicate MsFEM rhs: 1000ms
+Time to assemble and communicate MsFEM rhs: 990ms
+Time to assemble and communicate MsFEM rhs: 990ms
+Time to assemble and communicate MsFEM rhs: 970ms
+Time to assemble and communicate MsFEM rhs: 1000ms
+Time to assemble and communicate MsFEM rhs: 990ms
+Time to assemble and communicate MsFEM rhs: 1000ms
+Time to assemble and communicate MsFEM rhs: 1010ms
+Time to assemble and communicate MsFEM rhs: 990ms
+Time to assemble and communicate MsFEM rhs: 1000ms
+Time to solve coarse MsFEM problem: 40ms.
+Time to solve coarse MsFEM problem: 10ms.
+Time to solve coarse MsFEM problem: 60ms.
+Time to solve coarse MsFEM problem: 20ms.
+Time to solve coarse MsFEM problem: 20ms.
+Time to solve coarse MsFEM problem: 30ms.
+Time to solve coarse MsFEM problem: 50ms.
+Time to solve coarse MsFEM problem: 30ms.
+Time to solve coarse MsFEM problem: 10ms.
+Time to solve coarse MsFEM problem: 50ms.
+Time to solve coarse MsFEM problem: 30ms.
+Time to solve coarse MsFEM problem: 10ms.
+Time to solve coarse MsFEM problem: 20ms.
+Time to solve coarse MsFEM problem: 40ms.
+Time to solve coarse MsFEM problem: 40ms.
+Time to solve coarse MsFEM problem: 10ms.
+Time to solve coarse MsFEM problem: 60ms.
+Time to solve coarse MsFEM problem: 20ms.
+Time to solve coarse MsFEM problem: 40ms.
+Time to solve coarse MsFEM problem: 60ms.
+Time to solve coarse MsFEM problem: 20ms.
+Time to solve coarse MsFEM problem: 30ms.
+Time to solve coarse MsFEM problem: 20ms.
+Time to solve coarse MsFEM problem: 10ms.
+Time to solve coarse MsFEM problem: 50ms.
+Time to solve coarse MsFEM problem: 30ms.
+Time to solve coarse MsFEM problem: 30ms.
+Time to solve coarse MsFEM problem: 50ms.
+Time to solve coarse MsFEM problem: 40ms.
+Time to solve coarse MsFEM problem: 40ms.
+Time to solve coarse MsFEM problem: 20ms.
+Time to solve coarse MsFEM problem: 40ms.
+Time to solve coarse MsFEM problem: 60ms.
+Time to solve coarse MsFEM problem: 30ms.
+Time to solve coarse MsFEM problem: 40ms.
+Time to solve coarse MsFEM problem: 20ms.
+Time to solve coarse MsFEM problem: 20ms.
+Time to solve coarse MsFEM problem: 20ms.
+Time to solve coarse MsFEM problem: 40ms.
+Time to solve coarse MsFEM problem: 60ms.
+Time to solve coarse MsFEM problem: 20ms.
+Time to solve coarse MsFEM problem: 20ms.
+Time to solve coarse MsFEM problem: 70ms.
+Time to solve coarse MsFEM problem: 80ms.
+Time to solve coarse MsFEM problem: 30ms.
+Time to solve coarse MsFEM problem: 60ms.
+Time to solve coarse MsFEM problem: 30ms.
+Time to solve coarse MsFEM problem: 20ms.
+Time to solve coarse MsFEM problem: 10ms.
+Time to solve coarse MsFEM problem: 40ms.
+Time to solve coarse MsFEM problem: 100ms.
+Time to solve coarse MsFEM problem: 70ms.
+Time to solve coarse MsFEM problem: 60ms.
+Time to solve coarse MsFEM problem: 100ms.
+Time to solve coarse MsFEM problem: 70ms.
+Time to solve coarse MsFEM problem: 50ms.
+Time to solve coarse MsFEM problem: 30ms.
+Time to solve coarse MsFEM problem: 30ms.
+Time to solve coarse MsFEM problem: 60ms.
+Time to solve coarse MsFEM problem: 50ms.
+Time to solve coarse MsFEM problem: 40ms.
+Time to solve coarse MsFEM problem: 20ms.
+Time to solve coarse MsFEM problem: 40ms.
+Time to solve coarse MsFEM problem: 10ms.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying coarse scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Indentifying fine scale part of the MsFEM solution...  done.
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Indentifying fine scale part of the MsFEM solution...  done.
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+Solving linear problem with standard FEM and resolution level 16.
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Solving linear problem with standard FEM and resolution level 16.
+------------------------------------------------------------------------------
+Time to assemble standard FEM stiffness matrix: 380s
+Time to assemble standard FEM stiffness matrix: 370s
+Time to assemble standard FEM stiffness matrix: 370s
+Time to assemble standard FEM stiffness matrix: 370s
+Time to assemble standard FEM stiffness matrix: 380s
+Time to assemble standard FEM stiffness matrix: 350s
+Time to assemble standard FEM stiffness matrix: 380s
+Time to assemble standard FEM stiffness matrix: 350s
+Time to assemble standard FEM stiffness matrix: 350s
+Time to assemble standard FEM stiffness matrix: 380s
+Time to assemble standard FEM stiffness matrix: 380s
+Time to assemble standard FEM stiffness matrix: 350s
+Time to assemble standard FEM stiffness matrix: 370s
+Time to assemble standard FEM stiffness matrix: 380s
+Time to assemble standard FEM stiffness matrix: 380s
+Time to assemble standard FEM stiffness matrix: 360s
+Time to assemble standard FEM stiffness matrix: 380s
+Time to assemble standard FEM stiffness matrix: 360s
+Time to assemble standard FEM stiffness matrix: 370s
+Time to assemble standard FEM stiffness matrix: 360s
+Time to assemble standard FEM stiffness matrix: 360s
+Time to assemble standard FEM stiffness matrix: 370s
+Time to assemble standard FEM stiffness matrix: 380s
+Time to assemble standard FEM stiffness matrix: 370s
+Time to assemble standard FEM stiffness matrix: 370s
+Time to assemble standard FEM stiffness matrix: 370s
+Time to assemble standard FEM stiffness matrix: 380s
+Time to assemble standard FEM stiffness matrix: 370s
+Time to assemble standard FEM stiffness matrix: 370s
+Time to assemble standard FEM stiffness matrix: 360s
+Time to assemble standard FEM stiffness matrix: 370s
+Time to assemble standard FEM stiffness matrix: 370s
+Time to assemble standard FEM stiffness matrix: 370s
+Time to assemble standard FEM stiffness matrix: 380s
+Time to assemble standard FEM stiffness matrix: 370s
+Time to assemble standard FEM stiffness matrix: 380s
+Time to assemble standard FEM stiffness matrix: 380s
+Time to assemble standard FEM stiffness matrix: 390s
+Time to assemble standard FEM stiffness matrix: 400s
+Time to assemble standard FEM stiffness matrix: 400s
+Time to assemble standard FEM stiffness matrix: 390s
+Time to assemble standard FEM stiffness matrix: 390s
+Time to assemble standard FEM stiffness matrix: 390s
+Time to assemble standard FEM stiffness matrix: 390s
+Time to assemble standard FEM stiffness matrix: 390s
+Time to assemble standard FEM stiffness matrix: 390s
+Time to assemble standard FEM stiffness matrix: 410s
+Time to assemble standard FEM stiffness matrix: 390s
+Time to assemble standard FEM stiffness matrix: 390s
+Time to assemble standard FEM stiffness matrix: 390s
+Time to assemble standard FEM stiffness matrix: 400s
+Time to assemble standard FEM stiffness matrix: 400s
+Time to assemble standard FEM stiffness matrix: 400s
+Time to assemble standard FEM stiffness matrix: 380s
+Time to assemble standard FEM stiffness matrix: 390s
+Time to assemble standard FEM stiffness matrix: 390s
+Time to assemble standard FEM stiffness matrix: 410s
+Time to assemble standard FEM stiffness matrix: 390s
+Time to assemble standard FEM stiffness matrix: 400s
+Time to assemble standard FEM stiffness matrix: 400s
+Time to assemble standard FEM stiffness matrix: 400s
+Time to assemble standard FEM stiffness matrix: 410s
+Time to assemble standard FEM stiffness matrix: 400s
+Time to assemble standard FEM stiffness matrix: 370s
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 320s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 310s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 320s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 310s.
+
+
+Standard FEM problem solved in 320s.
+
+
+Standard FEM problem solved in 320s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 320s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 310s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 310s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 310s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 310s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 320s.
+
+
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 320s.
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 310s.
+
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 320s.
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 310s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 330s.
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 320s.
+
+
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 320s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 310s.
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 320s.
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 330s.
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 310s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 340s.
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 320s.
+
+
+Standard FEM problem solved in 310s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 330s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 330s.
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 320s.
+
+
+
+
+---------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 310s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 320s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 330s.
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 340s.
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 320s.
+
+
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 310s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 320s.
+
+
+Standard FEM problem solved in 320s.
+
+
+Standard FEM problem solved in 320s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 320s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 310s.
+
+
+Standard FEM problem solved in 330s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 310s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 340s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 330s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 310s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 320s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 330s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 330s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 330s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 330s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 330s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 310s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 330s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 320s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 320s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 320s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 320s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 340s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 310s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 310s.
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 310s.
+
+
+
+
+
+
+
+
+
+
+
+Standard FEM problem solved in 310s.
+
+
+
+
+
+Standard FEM problem solved in 320s.
+
+
+
+
+---------------------------------------------------------------------------------
+Standard FEM problem solved in 310s.
+
+
+Maximum total runtime of the program over all processes: 4970ms
+=>> PBS: job killed: walltime 35 exceeded limit 30
+mpiexec: killing job...
+
+Wed Nov 27 18:41:58 2013 Info  Job ( 497117-64.palma001.palma.wwu ) finished
