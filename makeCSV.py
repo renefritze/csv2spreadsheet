@@ -53,15 +53,20 @@ with open(out_fn,'wb') as outfile:
             mean_rows.append(out_row_count)
             out_row_count += 1
             result_count = 0
-    for idx in range(1,len(mean_rows)):
-        def w_row(base_idx):
+
+    def w_row(base_idx, idx):
             fac_row = { key: '={0}{1}/{0}{2}'.format(LETTERS[i], mean_rows[base_idx], mean_rows[idx])
                        for i, key in enumerate(OUT_FIELDS)}
             fac_row['procs'] = 'Factor {1}/{0}'.format(pows[base_idx], pows[idx])
             out_csv.writerow(fac_row)
-        w_row(idx - 1)
-        w_row(0)
-        out_row_count += 2
+
+    for l in range(1, len(mean_rows)):
+        w_row(l - 1, l)
+        out_row_count += 1
+    for l in range(1, len(mean_rows)):
+        w_row(0, l)
+        out_row_count += 1
+
             
                 
 print('DONE')
